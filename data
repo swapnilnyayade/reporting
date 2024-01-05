@@ -19,7 +19,7 @@
       "application_date":"",
       "sanctioned_date":"",
       "rejection_date":"",
-      "withdrawand_date":"",
+      "withdrawned_date":"",
       "application_withdrawn_reason":""
     },
     {
@@ -39,7 +39,7 @@
       "application_date":"",
       "sanctioned_date":"",
       "rejection_date":"",
-      "withdrawand_date":"",
+      "withdrawned_date":"",
       "application_withdrawn_reason":""
     },
     {
@@ -59,7 +59,7 @@
       "application_date":"",
       "sanctioned_date":"",
       "rejection_date":"",
-      "withdrawand_date":"",
+      "withdrawned_date":"",
       "application_withdrawn_reason":""
     }
   ]
