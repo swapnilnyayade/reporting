@@ -1,0 +1,21 @@
+{
+  "report_name":"MSIL-TRACK-DASHBOARD",
+  "reporting_status":"COMPLETED",
+  "dealer_summary": [
+    {
+      "dealer_code": "95NE-95",
+      "zone":"",
+      "region":"",
+      "dealer_name":"",
+      "total_login:": 1200,
+      "applied":10,
+      "verified":10,
+      "sanctioned": 1000,
+      "disbursed": 500
+      "rejected":1,
+      "cancelled":1,
+      "re-upload-document":3,
+    "application_withdrawn":1
+    }
+  ]
+}
